@@ -1,1 +1,1 @@
-UM TEXTO TEST
+um texto  test
